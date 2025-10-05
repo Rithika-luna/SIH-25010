@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:30.09.2025
+## Register Number:25015482
+## Name:S.RITHIKA
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,66 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+
+
+![alt text](<Screenshot 2025-10-05 234325.png>)
+
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+
+
+
+Technologies Used :
+
+  * Frontend: React Native for cross-platform mobile application.
+  * Backend: Django/Flask with REST APIs.
+  * Database: PostgreSQL + cloud storage for images.
+  * AI/ML Models: TensorFlow/PyTorch for pest detection and recommendation engine.
+  * Weather API Integration: IMD/third-party weather services.
+  * Voice & NLP: Google Dialogflow or open-source NLP for multilingual chatbot.
+
+
+
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+
+* Feasibility:
+
+  * Uses existing mobile technology accessible to most farmers.
+  * AI and weather APIs are readily available and scalable.
+  * Multilingual and offline-first approach ensures inclusivity.
+
+* Potential Challenges:
+
+  * Limited digital literacy among farmers.
+  * Connectivity issues in rural areas.
+  * Accuracy of predictions in highly variable local conditions.
+
+* Mitigation Strategies:
+
+  * Voice-based interaction for low-literate users.
+  * Offline advisory with SMS-based updates.
+  * Continuous ML model training with local data.
+  * Partnerships with local agri-extension officers for trust-building.
+
+
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+
+
+* Social: Empowers farmers with reliable scientific guidance, reducing dependency on middlemen.
+* Economic: Reduces input costs, increases yield by 20–30%, improves income stability.
+* Environmental: Promotes judicious use of fertilizers and pesticides, supporting sustainable agriculture.
+* Scalability: Can be expanded to cover multiple states, crops, and languages.
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+
+https://agmarknet.gov.in/
+
+https://apsjournals.apsnet.org/journal/pdis
+
+
+https://livetoplant.com/guide-to-selecting-the-best-soil-for-your-plants/
+
+
+https://www.accuweather.com/
